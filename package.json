@@ -1,0 +1,15 @@
+{
+  "name": "reclastic",
+  "version": "0.0.1",
+  "description": "Elasticsearch based reconciliation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^6.8.2",
+    "express": "^4.17.1"
+  }
+}
